@@ -85,6 +85,6 @@ Message level filter. There is one parameter `warning`.
 Example
 ```
   liveAlert.open(
-    liveAlertFormatterESlint(MessagesESLint, {}, [`warning`])
+    liveAlertFormatterESlint(MessagesESLint, {}, ['warning'])
   );
 ```
