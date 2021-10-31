@@ -19,7 +19,7 @@ npm i live-alert-bp-formatter-eslint --save-dev
 
 ## Examples how to use
 
-[live-alert-bp](https://github.com/semiromid/live-alert-bp#examples)
+[Examples](https://github.com/semiromid/live-alert-bp#examples)
 
 ## API
 
