@@ -18,6 +18,10 @@
   ],
   "author": "Somin Yuri",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/semiromid/live-alert-bp-formatter-eslint"
+  },
   "dependencies": {
     "lodash.merge": "^4.6.2"
   }
