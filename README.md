@@ -26,7 +26,7 @@ npm i live-alert-bp-formatter-eslint --save-dev
 ```javascript
 const formatterESlint = require("live-alert-bp-formatter-eslint");
 
-formatterESlint(messages, user_style = {}, filter = [])
+formatterESlint(messages, user_style, filter)
 ```
 
 * return:  formatted messages for [live-alert-bp](https://github.com/semiromid/live-alert-bp)
