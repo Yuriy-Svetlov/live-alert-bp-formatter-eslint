@@ -11,8 +11,10 @@ npm i live-alert-bp-formatter-eslint --save-dev
 ## How to use
 
 ```javascript
+const formatterESlint = require("live-alert-bp-formatter-eslint");
+
   liveAlert.open(
-    liveAlertFormatterESlint(MessagesESLint)
+    formatterESlint(MessagesESLint)
   );
 ```
 
