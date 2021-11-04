@@ -1,6 +1,6 @@
 {
   "name": "live-alert-bp-formatter-eslint",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The eslint message formatter for live-alert-bp",
   "main": "index.js",
   "scripts": {
@@ -16,14 +16,14 @@
     "formatter-eslint",
     "eslint-formatter"
   ],
-  "author": "Somin Yuri",
+  "author": "Yuriy Svetlov",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/semiromid/live-alert-bp-formatter-eslint"
+    "url": "https://github.com/Yuriy-Svetlov/live-alert-bp-formatter-eslint"
   },
   "homepage": "https://live-alert-browser-page.com",
-  "bugs": "https://github.com/semiromid/live-alert-bp-formatter-eslint/issues",
+  "bugs": "https://github.com/Yuriy-Svetlov/live-alert-bp-formatter-eslint/issues",
   "dependencies": {
     "lodash.merge": "^4.6.2"
   }

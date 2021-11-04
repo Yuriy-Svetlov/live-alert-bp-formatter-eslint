@@ -1,6 +1,6 @@
 # Live Alert BP Formatter ESlint
 
-The ESlint message formatter for [live-alert-bp](https://github.com/semiromid/live-alert-bp)
+The ESlint message formatter for [live-alert-bp](https://github.com/Yuriy-Svetlov/live-alert-bp)
 
 
 ##  Install
@@ -21,7 +21,7 @@ const formatterESlint = require("live-alert-bp-formatter-eslint");
 
 ## Examples how to use
 
-[Examples](https://github.com/semiromid/live-alert-bp#examples)
+[Examples](https://github.com/Yuriy-Svetlov/live-alert-bp#examples)
 
 ## API
 
@@ -31,7 +31,7 @@ const formatterESlint = require("live-alert-bp-formatter-eslint");
 formatterESlint(messages, user_style, filter)
 ```
 
-* return:  formatted messages for [live-alert-bp](https://github.com/semiromid/live-alert-bp)
+* return:  formatted messages for [live-alert-bp](https://github.com/Yuriy-Svetlov/live-alert-bp)
 
 #### messages
 * Type: `Array`
